@@ -1,0 +1,101 @@
+[
+  {
+    "repo": "op7418/Humanizer-zh",
+    "file": "SKILL.md",
+    "url": "https://raw.githubusercontent.com/op7418/Humanizer-zh/main/SKILL.md",
+    "bytes": 20527,
+    "sha256": "95627fd4437d886f98032ccc62d79136e6310f1fc04e354bb86431795ff206df",
+    "bundled_path": "references/upstream/humanizer-zh/SKILL.upstream.md",
+    "retrieved_at": "2026-10-25"
+  },
+  {
+    "repo": "op7418/Humanizer-zh",
+    "file": "LICENSE",
+    "url": "https://raw.githubusercontent.com/op7418/Humanizer-zh/main/LICENSE",
+    "bytes": 1063,
+    "sha256": "aa00e74769e1b9d8e7fa7094dbfcca9b129a0ded6dce1cf4da050b99146d2fa7",
+    "bundled_path": "references/upstream/humanizer-zh/LICENSE",
+    "retrieved_at": "2026-10-25"
+  },
+  {
+    "repo": "hardikpandya/stop-slop",
+    "file": "SKILL.md",
+    "url": "https://raw.githubusercontent.com/hardikpandya/stop-slop/main/SKILL.md",
+    "bytes": 2629,
+    "sha256": "7432a1d9ebdd42b27666da8458af252edf549f723fb14bcd4791425103930310",
+    "bundled_path": "references/upstream/stop-slop/SKILL.upstream.md",
+    "retrieved_at": "2026-10-25"
+  },
+  {
+    "repo": "hardikpandya/stop-slop",
+    "file": "LICENSE",
+    "url": "https://raw.githubusercontent.com/hardikpandya/stop-slop/main/LICENSE",
+    "bytes": 1070,
+    "sha256": "2e2b2beaf41cc0ce28485455a62aed81777cdcdf68702e142427aef1cd720f2c",
+    "bundled_path": "references/upstream/stop-slop/LICENSE",
+    "retrieved_at": "2026-10-25"
+  },
+  {
+    "repo": "hardikpandya/stop-slop",
+    "file": "references/phrases.md",
+    "url": "https://raw.githubusercontent.com/hardikpandya/stop-slop/main/references/phrases.md",
+    "bytes": 2915,
+    "sha256": "4ca1b7e97123b5c67eff3dc97e5e977332e0b24021265c1553888a93ec33fa93",
+    "bundled_path": "references/upstream/stop-slop/references/phrases.md",
+    "retrieved_at": "2026-10-25"
+  },
+  {
+    "repo": "hardikpandya/stop-slop",
+    "file": "references/structures.md",
+    "url": "https://raw.githubusercontent.com/hardikpandya/stop-slop/main/references/structures.md",
+    "bytes": 5255,
+    "sha256": "ffbf1316c7fb5aaf552de005609a64a9639b546ecd76bfb0e482864d5bbe6f58",
+    "bundled_path": "references/upstream/stop-slop/references/structures.md",
+    "retrieved_at": "2026-10-25"
+  },
+  {
+    "repo": "hardikpandya/stop-slop",
+    "file": "references/examples.md",
+    "url": "https://raw.githubusercontent.com/hardikpandya/stop-slop/main/references/examples.md",
+    "bytes": 1686,
+    "sha256": "49c592899eb4457f95d0767e15e3143569e2cef50f2927c3174e62432984cd3d",
+    "bundled_path": "references/upstream/stop-slop/references/examples.md",
+    "retrieved_at": "2026-10-25"
+  },
+  {
+    "repo": "MrGeDiao/shuorenhua",
+    "file": "SKILL.md",
+    "url": "https://raw.githubusercontent.com/MrGeDiao/shuorenhua/main/SKILL.md",
+    "bytes": 9619,
+    "sha256": "0cbdd6011e0b1db1aa4172c996a44d5e36f8de012d663de2302a9ba426b9b5cb",
+    "bundled_path": "references/upstream/shuorenhua/SKILL.upstream.md",
+    "retrieved_at": "2026-10-25"
+  },
+  {
+    "repo": "MrGeDiao/shuorenhua",
+    "file": "references/editing-guide.md",
+    "url": "https://raw.githubusercontent.com/MrGeDiao/shuorenhua/main/references/editing-guide.md",
+    "bytes": 5496,
+    "sha256": "c4ce2a4b43f967fc18f688b486908751563c0503263a28ea7a5b65bfe04d94b6",
+    "bundled_path": "references/upstream/shuorenhua/references/editing-guide.md",
+    "retrieved_at": "2026-10-25"
+  },
+  {
+    "repo": "MrGeDiao/shuorenhua",
+    "file": "references/examples.md",
+    "url": "https://raw.githubusercontent.com/MrGeDiao/shuorenhua/main/references/examples.md",
+    "bytes": 4719,
+    "sha256": "5acdcb3625996727774475b943194fe669a7af18191b0ec956fcbb323975c6c1",
+    "bundled_path": "references/upstream/shuorenhua/references/examples.md",
+    "retrieved_at": "2026-10-25"
+  },
+  {
+    "repo": "MrGeDiao/shuorenhua",
+    "file": "LICENSE",
+    "url": "https://raw.githubusercontent.com/MrGeDiao/shuorenhua/main/LICENSE",
+    "bytes": 1065,
+    "sha256": "d26eebf6104e9770ca097771022767da18fc07ca73a542469d2748b2e3186878",
+    "bundled_path": "references/upstream/shuorenhua/LICENSE",
+    "retrieved_at": "2026-10-25"
+  }
+]
